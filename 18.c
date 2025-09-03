@@ -37,10 +37,12 @@ int main () {
                 break;
         case 7: printf("saturday\n");
                 break;
-    
+        default: 
+            printf("invalid day\n");
     }
     return 0;
 }
 
     
+
 
